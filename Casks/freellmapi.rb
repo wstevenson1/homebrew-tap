@@ -1,6 +1,6 @@
 cask "freellmapi" do
-  version "0.16.18"
-  sha256 "fa3a47aa21e0c65fbd450a17cd673d9737bb6343d5ca5204fd259943b30cde8b"
+  version "0.16.19"
+  sha256 "448e8429aa0d93dfeaecdbb98deb52697a7da78cedd2bced7665c1f93f4f8e3c"
 
   url "https://github.com/tashfeenahmed/freellmapi/releases/download/v#{version}/FreeLLMAPI-#{version}-arm64.dmg"
   name "FreeLLMAPI"
